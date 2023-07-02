@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bala01225@gmail.com**
 
-- 📄 Know about my experiences through My CV [https://drive.google.com/file/d/1WTkbJeyBvD1KXZMVHT0RPchUFGbYexlK/view?usp=drivesdk](https://drive.google.com/file/d/1WTkbJeyBvD1KXZMVHT0RPchUFGbYexlK/view?usp=drivesdk)
+- 📄 Know about my experiences through My CV [https://drive.google.com/file/d/1WTkbJeyBvD1KXZMVHT0RPchUFGbYexlK/view?usp=drivesdk](https://drive.google.com/file/d/1XwVJ6oUIdivswlH-fjhUgw3HLBRvquMF/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I funny and smarter.**
 
