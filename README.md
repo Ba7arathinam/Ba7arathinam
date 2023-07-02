@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Balarathinam T</h1>
 <h3 align="center">A passionate Web Developer/MERN Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif"/>
 - 🔭 I’m currently working on **E-com website**
 
 - 🌱 I’m currently learning **Angular.js**
