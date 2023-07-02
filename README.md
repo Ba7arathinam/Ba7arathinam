@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+![MasterHead](https://github.com/Ba7arathinam/Ba7arathinam/blob/main/png_20230702_033120_0000.png)
 <h1 align="center">Hi 👋, I'm Balarathinam T</h1>
 <h3 align="center">A passionate Web Developer/MERN Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif"/>
